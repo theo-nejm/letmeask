@@ -25,7 +25,7 @@
     }
 
     p {
-      font-size: 1.5rem;
+      font-size: 1.3875rem;
       line-height: 2rem;
       margin-top: 1rem;
       color: #f8f8f8;
@@ -33,7 +33,7 @@
   }
 
   main {
-    flex: 8;
+    flex: 10;
 
     padding: 0 2rem;
 
@@ -67,6 +67,8 @@
         padding: 0 1rem;
         background: #FFF;
         border: 1px solid #a8a8b3;
+        outline-color: #8d8da7;
+        margin-bottom: .85rem;
       }
 
       button {
