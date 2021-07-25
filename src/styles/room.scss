@@ -14,6 +14,19 @@
         max-height: 2.8rem;
       }
     }
+
+    .buttons {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+
+      .button {
+        height: 2.5rem;
+        background: #FFF;
+        border: 1px solid #835afd;
+        color: #835afd;
+      }
+    }
   }
 
   main {
